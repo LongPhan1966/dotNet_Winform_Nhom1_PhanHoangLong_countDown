@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\bin\Debug\CountDownWinform.exe.config
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\bin\Debug\CountDownWinform.exe
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\bin\Debug\CountDownWinform.pdb
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\obj\Debug\CountDownWinform.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\obj\Debug\CountDownWinform.Form1.resources
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\obj\Debug\CountDownWinform.Properties.Resources.resources
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\obj\Debug\CountDownWinform.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\obj\Debug\CountDownWinform.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\obj\Debug\CountDownWinform.exe
+C:\Users\USER\source\repos\CountDownWinform\CountDownWinform\obj\Debug\CountDownWinform.pdb
